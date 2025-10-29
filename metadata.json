@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Generator",
+  "description": "Upload a photo, add a prompt, and generate a dynamic video intro using the Veo video generation model. Choose between portrait and landscape aspect ratios to create the perfect start for your video.",
+  "requestFramePermissions": []
+}
